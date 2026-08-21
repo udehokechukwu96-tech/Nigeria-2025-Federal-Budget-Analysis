@@ -43,7 +43,7 @@ Click below to view the project interactive live demo online
 
 [**Click here to view the Budget Allocation Visualization Demo**](https://drive.google.com/file/d/14XzWpsArf6I2HNSSeJikrGrBLsFRMZIY/view?usp=sharing)
 
-# Tools and Technolgies Used
+# Tools and Technologies Used
 
 •	Microsoft Power BI -- for visualization
 
