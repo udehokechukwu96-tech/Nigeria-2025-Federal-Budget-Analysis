@@ -38,7 +38,7 @@ The objective of this project is to make federal budget information easier to re
 
 # View Project Demo
 
-Click below to view the dashboard interactive live demo online
+Click below to view the project interactive live demo online
 
 
 [**Click here to view the Budget Allocation Visualization Demo**](https://drive.google.com/file/d/14XzWpsArf6I2HNSSeJikrGrBLsFRMZIY/view?usp=sharing)
