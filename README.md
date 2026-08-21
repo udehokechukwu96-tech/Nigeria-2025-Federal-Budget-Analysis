@@ -64,7 +64,7 @@ Click below to view the dashboard interactive live demo online
 
 • Refresh the dataset if needed 
 
-• Interact with chart deeper analysis
+• Interact with chart for deeper analysis
 
 
 # Conclusion
