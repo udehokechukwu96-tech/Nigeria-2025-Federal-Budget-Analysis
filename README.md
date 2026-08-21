@@ -36,11 +36,12 @@ The objective of this project is to make federal budget information easier to re
 
 • Personnel therefore represents the dominant component of recurrent allocation in the dataset
 
-# View Dashboard Demo
+# View Project Demo
 
 Click below to view the dashboard interactive live demo online
 
-[![View Demo](https://drive.google.com/uc?export=view&id=14XzWpsArf6I2HNSSeJikrGrBLsFRMZIY)](https://drive.google.com/file/d/14XzWpsArf6I2HNSSeJikrGrBLsFRMZIY/view?usp=sharing)
+
+[**Click here to view the Budget Allocation Visualization Demo**](https://drive.google.com/file/d/14XzWpsArf6I2HNSSeJikrGrBLsFRMZIY/view?usp=sharing)
 
 # Tools and Technolgies Used
 
