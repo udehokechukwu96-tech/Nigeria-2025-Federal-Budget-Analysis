@@ -75,3 +75,7 @@ Click below to view the project interactive live demo online
 •The key takeaway is that recurrent allocation accounts for **57%** of the **₦20.70 Trillion** total allocation, while capital allocation accounts for **43%,** with personnel making up **86%** of recurrent allocation.
 
 • Overall, the project demonstrates the practical application of data analysis and visualization skills to a real-world public sector dataset, making budget information easier to read, explore and understand.
+
+# Data Source
+
+https://budgetoffice.gov.ng/index.php/2025-appropriation-act-as-passed
