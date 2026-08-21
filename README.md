@@ -1,10 +1,44 @@
 # Project Overview
 The Budget Allocation Visualization project analyses Nigeria's 2025 Federal Budget Allocation across Ministries, Departments and Agencies (MDAs). The project transforms complex budget data into an interactive dashboard that presents total allocation, capital and recurrent allocation, top MDAs by allocation, and the breakdown of recurrent allocation.
-The dataset was cleaned and prepared using Power Query to improve data quality and consistency before analysis. The cleaned data was then visualized using Microsoft Power BI to create an interactive dashboard.
+
 
 # Objective
 The objective of this project is to make federal budget information easier to read, explore and understand by transforming complex budget data into clear, interactive and meaningful visualizations.
 
+# Key Metric KPIs
+
+• Total Allocation which stands at **₦20.70 Trillion**
+
+• Capital Allocation is at **₦8.96 Trillion**
+
+• Total Recurrent Allocation is **₦11.77 Trillion**
+
+• Recurrent Allocation percentage is at **57%**
+
+• Capital Allocation is at **43%**
+
+# Dashboard Preview
+<img width="1163" height="702" alt="image" src="https://github.com/user-attachments/assets/0d1c5c31-b1f0-488d-941f-b5c8de51bd6a" />
+
+
+
+
+
+# Business Insights 
+
+• The dashboard shows a total allocation of approximately **₦20.70 Trillion** across the MDAs
+
+• Approximately **₦8.96 trillion (43%)** is allocated to capital, while **₦11.77 Trillion (57%)** is allocated to recurrent
+
+• Ministry of Defence has the largest allocation displayed, at approximately **₦3.10 Trillion**
+
+• The recurrent allocation breakdown shows that approximately **₦10.10 Trillion (86%)** is allocated to personnel, while **₦1.67 Trillion (14%)** is allocated to overhead
+
+• Personnel therefore represents the dominant component of recurrent allocation in the dataset
+
+# View Dashboard Demo
+
+View the dashboard demo (fully online) https://drive.google.com/file/d/14XzWpsArf6I2HNSSeJikrGrBLsFRMZIY/view?usp=sharing
 
 Tools and Visualizations Used
 The dashboard uses several Power BI tools and visualizations to make the data easier to explore:
