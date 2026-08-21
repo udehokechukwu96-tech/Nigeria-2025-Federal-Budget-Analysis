@@ -66,7 +66,8 @@ Click below to view the dashboard interactive live demo online
 
 • Interact with chart deeper analysis
 
-Conclusion
+
+# Conclusion
 
 • The project demonstrates how data cleaning with Power Query and data visualization with Power BI can transform complex public budget data into clear, accessible and meaningful information
 
