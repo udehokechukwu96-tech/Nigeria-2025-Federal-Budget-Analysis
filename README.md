@@ -49,7 +49,7 @@ Click below to view the project interactive live demo online
 
 •	Power Query -- for data cleaning and transformation
 
-•	DAX -- for writing analytic function
+•	DAX -- for calculations and measures
 
 •	Microsoft PowerPoint -- for building wireframes
 
