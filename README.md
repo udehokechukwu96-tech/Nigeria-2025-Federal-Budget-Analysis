@@ -28,7 +28,7 @@ The objective of this project is to make federal budget information easier to re
 
 • The dashboard shows a total allocation of approximately **₦20.70 Trillion** across the MDAs
 
-• Approximately **₦8.96 trillion (43%)** is allocated to capital, while **₦11.77 Trillion (57%)** is allocated to recurrent
+• Approximately **₦8.96 Trillion (43%)** is allocated to capital, while **₦11.77 Trillion (57%)** is allocated to recurrent
 
 • Ministry of Defence has the largest allocation displayed, at approximately **₦3.10 Trillion**
 
@@ -61,7 +61,7 @@ Click below to view the project interactive live demo online
 
 # How to Use
 
-• Open the .pbix file in Microsoft BI
+• Open the .pbix file in Microsoft Power BI
 
 • Refresh the dataset if needed 
 
